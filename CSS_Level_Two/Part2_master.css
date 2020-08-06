@@ -1,0 +1,18 @@
+body{
+  background: url(https://specials-images.forbesimg.com/imageserve/1030311008/960x0.jpg?fit=scale);
+  background-repeat: repeat;
+}
+
+div{
+  background-color: blue;
+  border-color: orange;
+  border-width: 10px;
+  border-style: double;
+}
+p{
+  color:yellow;
+}
+span{
+  background: red;
+  color: black
+}
