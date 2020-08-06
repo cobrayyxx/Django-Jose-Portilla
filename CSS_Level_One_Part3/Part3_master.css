@@ -1,0 +1,31 @@
+h3{
+  color: blue;
+}
+/* for class */
+.firstDiv{
+  color: red;
+}
+.secondDiv{
+  color: green;
+}
+/* for id */
+#singleout{
+  color: yellow;
+  text-decoration: line-through;
+}
+/* for all elements */
+*{
+  background: gray;
+}
+h3 + ul  {
+  border: 10px dotted purple;
+}
+
+li a{
+  color: red;
+}
+
+li a[href="www.npr.org"]{
+  color:blue;
+  border: 5px solid green;
+}
