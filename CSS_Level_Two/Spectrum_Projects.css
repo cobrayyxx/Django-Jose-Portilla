@@ -1,0 +1,34 @@
+.table{
+  /* Margin auto will automatically center */
+  margin: auto;
+}
+td{
+  width: 90px;
+  height: 250px;
+  border: 5px solid white;
+  padding: 50px;
+}
+h1{
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+
+}
+#one{
+  background-color: #f72585;
+}
+#two{
+  background-color: #7209b7;
+
+}
+#three{
+  background-color: #3a0ca3;
+
+}
+#four{
+  background-color: #4361ee;
+
+}
+#five{
+  background-color: #4cc9f0;
+
+}
